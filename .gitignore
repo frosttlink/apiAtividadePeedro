@@ -1,1 +1,4 @@
 /node_modules
+
+git config --global user.name "Debrinhauwu"
+git config --global user.email "deborassantos880@gmail.com"
